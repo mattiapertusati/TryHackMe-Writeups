@@ -8,7 +8,6 @@ My goal is to document my analytical process, demonstrate hands-on skills in DFI
 
 * **📂 Windows-Forensics**: Deep dives into Windows event logs, registry analysis, persistence mechanisms, and artifact hunting.
   * [Investigating Windows](./Windows-Forensics/Investigating-Windows/README.md) — Investigating a compromised Windows Server, uncovering Mimikatz artifacts, web shells, and DNS poisoning.
-* **📂 [Altra Categoria]**: (Aggiungi altre cartelle man mano che completi nuove stanze!)
 
 ## 🛠️ Skills & Tools Demonstrated
 * **DFIR:** Timeline reconstruction, Windows Event Log analysis (`wevtutil`), Task Scheduler auditing.
