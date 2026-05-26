@@ -7,7 +7,7 @@ My goal is to document my analytical process, demonstrate hands-on skills in DFI
 ## 🗂️ Repository Structure
 
 * **📂 Windows-Forensics**: Deep dives into Windows event logs, registry analysis, persistence mechanisms, and artifact hunting.
-  * [Investigating Windows](./Windows-Forensics/Investigating-Windows/README.md) — Investigating a compromised Windows Server, uncovering Mimikatz artifacts, web shells, and DNS poisoning.
+  * [Investigating Windows](./Windows-Forensics/README.md) — Investigating a compromised Windows Server, uncovering Mimikatz artifacts, web shells, and DNS poisoning.
 * 📂 **Linux-Machines**: Detailed technical write-ups covering Linux exploitation, misconfigurations, and CVE analysis.
   * [CVE-2026-42945: Nginx Rift](./CVE-2026-42945-Nginx-Rift/README.md) — Unauthenticated heap overflow walkthrough and code execution analysis.
 
