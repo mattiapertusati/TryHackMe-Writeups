@@ -9,7 +9,7 @@ My goal is to document my analytical process, demonstrate hands-on skills in DFI
 * **📂 Windows-Forensics**: Deep dives into Windows event logs, registry analysis, persistence mechanisms, and artifact hunting.
   * [Investigating Windows](./Windows-Forensics/README.md) — Investigating a compromised Windows Server, uncovering Mimikatz artifacts, web shells, and DNS poisoning.
 * **📂 Linux-Machines**: Detailed technical write-ups covering Linux exploitation, misconfigurations, and CVE analysis.
-  * [GoldenEye (TryHackMe)](./Linux-Machines/GoldenEye-Writeup.md) — Pivoting through internal POP3 mail services, steganographic analysis, Moodle CMS spellchecker exploitation, and local privilege escalation via OverlayFS kernel exploit.
+  * [GoldenEye (TryHackMe)](./GoldenEye-CTF/README.md) — Pivoting through internal POP3 mail services, steganographic analysis, Moodle CMS spellchecker exploitation, and local privilege escalation via OverlayFS kernel exploit.
   * [CVE-2026-42945: Nginx Rift](./CVE-2026-42945-Nginx-Rift/README.md) — Unauthenticated heap overflow walkthrough and code execution analysis.
 
 ## 🛠️ Skills & Tools Demonstrated
