@@ -1,5 +1,3 @@
-<img width="1227" height="860" alt="Screenshot 2026-05-26 182716" src="https://github.com/user-attachments/assets/246dc6bc-8615-4439-a6f8-655de3aac531" />
-<img width="1227" height="860" alt="Screenshot 2026-05-26 182716" src="https://github.com/user-attachments/assets/8c87a0cd-05e8-48a5-918b-2a02e334661e" />
 # TryHackMe: GoldenEye CTF Write-Up
 * **Difficulty:** Medium
 * **Target IP:** `10.112.182.182`
