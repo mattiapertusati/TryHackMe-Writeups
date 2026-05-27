@@ -1,3 +1,5 @@
+<img width="1227" height="860" alt="Screenshot 2026-05-26 182716" src="https://github.com/user-attachments/assets/246dc6bc-8615-4439-a6f8-655de3aac531" />
+<img width="1227" height="860" alt="Screenshot 2026-05-26 182716" src="https://github.com/user-attachments/assets/8c87a0cd-05e8-48a5-918b-2a02e334661e" />
 # TryHackMe: GoldenEye CTF Write-Up
 * **Difficulty:** Medium
 * **Target IP:** `10.112.182.182`
@@ -164,3 +166,6 @@ With complete access achieved, both target validation tokens were easily read fr
 1. **Enforce Password Complexity Policies:** Default credentials like `InvincibleHack3r` should be systematically expired upon initial setup, and legacy dictionary passwords like `bird` or `secret1!` must be banned.
 2. **Sanitize Configuration Inputs:** Web applications should implement strict regex validation filters on binary execution path configurations (like `aspellpath`) to prevent path traversal and arbitrary command concatenation.
 3. **Continuous Kernel Patch Management:** Implement automated OS upgrade pipelines to mitigate old, known local kernel escalation flaws like OverlayFS.
+
+
+<img width="1227" height="860" alt="Screenshot 2026-05-26 182716" src="https://github.com/user-attachments/assets/f1eddd0d-4992-4fa5-9dde-e015c7d30082" />
