@@ -26,3 +26,5 @@ The core logic relies on a **Language Scoring Engine** that mathematically asses
 
 ## 🏆 Conclusion
 By developing a custom automation tool, I successfully bypassed the tedious manual labor usually required for deeply nested crypto challenges. This room was a fantastic exercise not only in cryptography but in **Python scripting, heuristic analysis, and AI-assisted tool development**. The resulting decoder is now a permanent addition to my cybersecurity arsenal.
+
+<img width="1036" height="636" alt="Screenshot 2026-05-29 110553" src="https://github.com/user-attachments/assets/3dda84e0-2c78-4e9c-bc58-a522e7bcfca8" />
