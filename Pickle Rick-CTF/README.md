@@ -1,7 +1,6 @@
 # TryHackMe: Pickle Rick Walkthrough
 
-![TryHackMe](https://shields.io)
-![Difficulty](https://shields.io)
+Difficulty: Easy
 
 A comprehensive walkthrough for the **Pickle Rick** CTF room on TryHackMe. This room is a Rick and Morty-themed challenge requiring web enumeration, initial access exploitation, and basic Linux privilege escalation.
 
